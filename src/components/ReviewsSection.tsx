@@ -45,15 +45,15 @@ const ReviewsSection: React.FC = () => {
           professionals in Dubai—
         </p>
         <p className="block">
-          effortless contact sharing and a major boost in productivity."
+          effortless contact sharing and a major boost in productivity.
         </p>
         <p className="block text-[#0ECC88] mt-4">
-          An essential tool for every real estate professional!
+          An essential tool for every real estate professional"!
         </p>
       </div>
 
       {/* Reviewer Info */}
-      <div className="flex flex-col justify-center items-center w-full h-auto lg:w-[251px] lg:h-[55px] mx-auto mt-10 lg:mt-0">
+      <div className="flex flex-col justify-start items-center w-full h-auto lg:w-[251px] lg:h-[55px] mx-auto mt-10 lg:mt-0">
         <div className="w-full lg:w-[220px] text-black text-[18px] lg:text-[20px] font-semibold leading-[125%] text-center lg:text-left">
           Abdul Mohammed Bari
         </div>
